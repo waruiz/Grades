@@ -1,0 +1,1 @@
+A simple grade book application for learning C# fundamentals. Following along Pluralsight's Scott Allen.
