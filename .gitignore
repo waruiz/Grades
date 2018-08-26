@@ -1,9 +1,13 @@
 .vs/
 Grades.sln
 packages/
-bin/
-obj/
+/bin/Debug
+Grades/obj/
 
 *.csproj.user
 *.csproj
 *.config
+
+*.csproj
+*.exe
+*.pdb

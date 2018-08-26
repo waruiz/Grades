@@ -1,7 +1,0 @@
-C:\Users\wruiz\source\repos\Grades\Grades\bin\Debug\Grades.exe.config
-C:\Users\wruiz\source\repos\Grades\Grades\bin\Debug\Grades.exe
-C:\Users\wruiz\source\repos\Grades\Grades\bin\Debug\Grades.pdb
-C:\Users\wruiz\source\repos\Grades\Grades\obj\Debug\Grades.csprojAssemblyReference.cache
-C:\Users\wruiz\source\repos\Grades\Grades\obj\Debug\Grades.csproj.CoreCompileInputs.cache
-C:\Users\wruiz\source\repos\Grades\Grades\obj\Debug\Grades.exe
-C:\Users\wruiz\source\repos\Grades\Grades\obj\Debug\Grades.pdb
